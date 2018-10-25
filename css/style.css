@@ -1,0 +1,27 @@
+body{
+}
+h1{
+  text-align: center;
+  color: #511d96;
+  font-family: Arial;
+  font-size: 4rem;
+  font-style: normal;
+  font-stretch: extra-condensed;
+  word-spacing: 1rem;
+  font: lighter;
+  font: larger;
+  text-transform: capitalize;
+
+}
+img{
+height: 200px;
+margin-left: 34rem;
+image-rendering: optimizeQuality;
+}
+p{
+  text-align: center;
+  font-family: 'Courier New';
+  font-display: initial;
+  font-size: 1.5rem;
+
+}
